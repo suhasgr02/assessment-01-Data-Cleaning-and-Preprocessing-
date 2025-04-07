@@ -6,7 +6,7 @@ This project demonstrates a basic data cleaning and preprocessing pipeline using
 
 ## 📁 Dataset
 
-- The dataset used (`your_file.csv`) should be a raw CSV file containing real-world inconsistencies such as:
+- The dataset used ('/content/marketing_campaign.csv') should be a raw CSV file containing real-world inconsistencies such as:
   - Missing values
   - Duplicate rows
   - Inconsistent formatting
