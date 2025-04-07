@@ -16,6 +16,7 @@ This project demonstrates a basic data cleaning and preprocessing pipeline using
 ---
 
 ## 🛠 Tools & Technologies
+- Google Colab
 - Python 3.x
 - Pandas
 - Jupyter Notebook / Python Script
